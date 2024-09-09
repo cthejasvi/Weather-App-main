@@ -29,13 +29,13 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ssharmak/Weather-App.git
+   git clone https://github.com/cthejasvi/Weather-App-main.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Weather-App
+   cd Weather-App-main
    ```
 
 3. Open the `index.html` file in your preferred web browser to view the weather website.
